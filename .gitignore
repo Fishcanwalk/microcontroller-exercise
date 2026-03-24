@@ -1,0 +1,9 @@
+Project Backups/
+.vs/
+
+Debug/
+*.lss
+*.map
+*.obj
+*.tmp
+*.hex
